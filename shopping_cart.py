@@ -1,6 +1,4 @@
 # Author: Tarik Rajper
-# Assignment: Project 5
-# Date (Last Revised): 11/11/2018
 
 #Used to exit program
 import sys
